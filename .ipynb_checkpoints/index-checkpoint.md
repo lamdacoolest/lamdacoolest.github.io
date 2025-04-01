@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://media.licdn.com/dms/image/v2/D4E35AQG6oLRcHettbQ/profile-framedphoto-shrink_400_400/B4EZUK.Yx.HcAc-/0/1739645881740?e=1744131600&v=beta&t=EI5njRQzM-GynGDCqQEn_qimtvhYrh7i7BDX4zmcyDc" width="50%">
+  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
 </p>
 
 ---
