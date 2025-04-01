@@ -24,9 +24,9 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Interpretation](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+This is my exercise file from when I learned about how to interpret regression.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

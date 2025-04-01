@@ -1,20 +1,10 @@
 title: Lam Nguyen # your name (or website title) here
 logo: "https://media.licdn.com/dms/image/v2/D4E35AQG6oLRcHettbQ/profile-framedphoto-shrink_400_400/B4EZUK.Yx.HcAc-/0/1739645881740?e=1744131600&v=beta&t=EI5njRQzM-GynGDCqQEn_qimtvhYrh7i7BDX4zmcyDc" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
-  <br><br>
   <a href="https://www.linkedin.com/in/lam-nguyen-pham/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="pdf/Lam Nguyen Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+  <a href="https://github.com/lamdacoolest">GitHub</a>  
   
 theme: jekyll-theme-minimal
