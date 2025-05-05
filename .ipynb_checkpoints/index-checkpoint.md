@@ -19,11 +19,15 @@ Finance and Business Analytics
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**Stock Return Survival Analysis**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+<img src="images/Stock survival.jpeg"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The following analysis presents the results from a Cox Proportional Hazards model. I categorize signals based on whether their hazard ratios (exp(coef)) are greater than or less than 1, indicating whether they are associated with increased hazard (higher risk) or positive survival (growth). p-values less than 0.1 indicate signals with statistically significant associations.
+
+A hazard ratio (exp(coef)) greater than 1 suggests the signal increases the risk of being delisted (higher "death risk"), while a hazard ratio less than 1 suggests it reduces the risk ("still alive").
+
+Ex: **Total Accruals**: A hazard ratio greater than 1 means that higher accruals are associated with an increased risk of being delisted or facing financial distress.
 
 ---
 
