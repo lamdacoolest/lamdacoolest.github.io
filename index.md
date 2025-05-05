@@ -1,75 +1,80 @@
-## About Me
+# About Me
 
-**Lehigh University Class of 2026**
+**Lehigh University, Class of 2026**  
+*College of Business – Finance and Business Analytics*
 
-College of Business
-
-Finance and Business Analytics
-
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="images/colbusiness.png" width="70%">
+<p align="center">
+  <img src="images/colbusiness.png" alt="College of Business Logo" width="60%">
 </p>
 
 ---
 
-## Portfolio
+# Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+## 📈 Stock Return Survival Analysis
 
-_**Stock Return Survival Analysis**_
+<p align="center">
+  <img src="images/Stock survival.jpeg" alt="Stock Survival Analysis" width="70%">
+</p>
 
-<img src="images/Stock survival.jpeg"/>
+This analysis uses the **Cox Proportional Hazards** model to evaluate financial signals. Hazard ratios (**exp(coef)**) indicate how each signal affects the risk of stock delisting:
 
-The following analysis presents the results from a **Cox Proportional Hazards** model. I categorize signals based on whether their hazard ratios (**exp(coef)**) are greater than or less than 1, indicating whether they are associated with **increased** hazard (higher risk) or positive survival (growth). p-values less than **0.1** indicate signals with statistically significant associations.
+- **Hazard ratio > 1** → Higher risk of being delisted (shorter survival)
+- **Hazard ratio < 1** → Lower risk (positive survival)
 
-A hazard ratio (**exp(coef)**) greater than 1 suggests the signal increases the risk of being **delisted** (higher "death risk"), while a hazard ratio less than 1 suggests it reduces the risk ("still alive").
+> Example: **Total Accruals**  
+> A ratio > 1 means higher accruals increase the chance of delisting or financial distress.
 
-Ex: **Total Accruals**: A hazard ratio greater than 1 means that **higher accruals** are associated with an increased risk of being **delisted** or facing financial distress.
-
----
-
-_**Regression Practice**_
-
-This is my exercise file from when I learned about how to interpret regression. This code purpose was to do a regression on Lot Area, and Year Sold against the Sales Price of houses.
-<img src="images/defi.jpeg"/>
-
-<img src="images/assn6.jpeg"/>
+Significance is determined at **p < 0.1**.
 
 ---
 
-_**Team's Project**_
+## 📊 Regression Practice
 
-[Stock Prediction Analysis](https://www.theasians.streamlit.app)
-<img src="images/regression.jpeg"/>
-This graph compares cumulative returns of signal-level portfolio stocks in the OpenAP library across various models:
+This was an exercise in interpreting regression outputs. The model regressed **Lot Area** and **Year Sold** on **Sales Price**.
 
-Linear Regression
+<p align="center">
+  <img src="images/defi.jpeg" alt="Regression Definition" width="70%">
+</p>
 
-MLP Regressor
-
-Random Forest Regressor
-
-Support Vector Regressor (SVR)
-
-XGBoost Regressor
+<p align="center">
+  <img src="images/assn6.jpeg" alt="Regression Assignment Output" width="70%">
+</p>
 
 ---
 
-## Career Objectives
-Aspiring finance and analytics professional pursuing a B.S. in Finance and Business Analytics at Lehigh University, seeking to leverage strong financial modeling, investment analysis, and data science skills to drive value in private equity, venture capital, or financial consulting roles. Passionate about delivering data-driven insights and sustainable investment strategies on a global scale.
+## 🤝 Team Project: [Stock Prediction Analysis](https://www.theasians.streamlit.app)
+
+<p align="center">
+  <img src="images/regression.jpeg" alt="Cumulative Return Graph" width="70%">
+</p>
+
+This project compares cumulative returns of signal-level portfolios using the **OpenAP library** and several ML models:
+
+- Linear Regression  
+- MLP Regressor  
+- Random Forest  
+- SVR (Support Vector Regressor)  
+- XGBoost  
 
 ---
 
-## Hobbies
-I love doing music production, exercising in the gym. I am also a fan of the NBA (Golden State Warriors is my favorite team since I was 12).
+# Career Objectives
+
+Aspiring finance and analytics professional pursuing a B.S. in Finance and Business Analytics at Lehigh University. I aim to leverage financial modeling, investment analysis, and data science to add value in **private equity, venture capital**, or **financial consulting**. Passionate about delivering data-driven insights and sustainable investment strategies on a global scale.
 
 ---
-## Contact Information
-Email: ngoclamnguyenpham@gmail.com
 
-Phone: (484)767-0534
+# Hobbies
 
-Bethlehem, PA
+🎵 Music Production  
+🏋️‍♂️ Gym & Fitness  
+🏀 NBA Fan – Lifelong supporter of the **Golden State Warriors**
+
+---
+
+# 📬 Contact
+
+- **Email**: ngoclamnguyenpham@gmail.com  
+- **Phone**: (484) 767-0534  
+- **Location**: Bethlehem, PA
