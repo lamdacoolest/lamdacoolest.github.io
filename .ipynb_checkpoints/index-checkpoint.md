@@ -1,13 +1,14 @@
 ## About Me
 
-What's up? hey\|you
+**Lehigh University Class of 2026**
+College of Business
+Finance and Business Analytics 
 
-I am an awesome student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="lamdacoolest.github.io/images/lamnguyen.jpg" width="50%">
 </p>
 
 ---
@@ -24,9 +25,9 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Interpretation](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+This is my exercise file from when I learned about how to interpret regression.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
