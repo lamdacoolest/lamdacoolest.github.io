@@ -42,7 +42,7 @@ This is my exercise file from when I learned about how to interpret regression. 
 
 _**Team's Project**_
 
-
+[Stock Prediction Analysis](https://www.theasians.streamlit.app)
 <img src="images/regression.jpeg"/>
 This graph compares cumulative returns of signal-level portfolio stocks in the OpenAP library across various models:
 
