@@ -59,17 +59,17 @@ XGBoost Regressor
 ---
 
 ## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
+Aspiring finance and analytics professional pursuing a B.S. in Finance and Business Analytics at Lehigh University, seeking to leverage strong financial modeling, investment analysis, and data science skills to drive value in private equity, venture capital, or financial consulting roles. Passionate about delivering data-driven insights and sustainable investment strategies on a global scale.
 
 ---
 
 ## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I love doing music production, exercising in the gym. I am also a fan of the NBA (Golden State Warriors is my favorite team since I was 12).
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Contact Information
+Email: ngoclamnguyenpham@gmail.com
+
+Phone: (484)767-0534
+
+Bethlehem, PA
