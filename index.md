@@ -31,7 +31,7 @@ Ex: **Total Accruals**: A hazard ratio greater than 1 means that **higher accrua
 
 ---
 
-_**[Regression Practice]**_
+_**Regression Practice**_
 
 This is my exercise file from when I learned about how to interpret regression. This code purpose was to do a regression on Lot Area, and Year Sold against the Sales Price of houses.
 <img src="images/defi.jpeg"/>
