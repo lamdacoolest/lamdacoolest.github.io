@@ -10,7 +10,7 @@ Finance and Business Analytics
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/lamnguyen.jpg" width="70%">
+  <img class="img-circle" src="images/colbusiness.png" width="70%">
 </p>
 
 ---
