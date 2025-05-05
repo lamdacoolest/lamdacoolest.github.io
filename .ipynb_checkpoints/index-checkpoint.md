@@ -40,15 +40,21 @@ This is my exercise file from when I learned about how to interpret regression. 
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**Team's Project**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+<img src="images/regression.jpeg"/>
+This graph compares cumulative returns of signal-level portfolio stocks in the OpenAP library across various models:
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+Linear Regression
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+MLP Regressor
+
+Random Forest Regressor
+
+Support Vector Regressor (SVR)
+
+XGBoost Regressor
 
 ---
 
