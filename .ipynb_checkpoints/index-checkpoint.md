@@ -34,12 +34,7 @@ Ex: **Total Accruals**: A hazard ratio greater than 1 means that **higher accrua
 _**[Regression Practice]**_
 
 This is my exercise file from when I learned about how to interpret regression. This code purpose was to do a regression on Lot Area, and Year Sold against the Sales Price of houses.
-1. $\text{Sale Price}_{i,t} = \alpha + \beta_1 * \text{v\_Lot\_Area}$
-2. $\text{Sale Price}_{i,t} = \alpha + \beta_1 * log(\text{v\_Lot\_Area})$
-3. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * \text{v\_Lot\_Area}$
-4. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * log(\text{v\_Lot\_Area})$
-5. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * \text{v\_Yr\_Sold}$
-6. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * (\text{v\_Yr\_Sold==2007})+ \beta_2 * (\text{v\_Yr\_Sold==2008})$
+<img src="images/defi.jpeg"/>
 
 <img src="images/assn6.jpeg"/>
 
