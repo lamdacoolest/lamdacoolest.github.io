@@ -1,14 +1,16 @@
 ## About Me
 
 **Lehigh University Class of 2026**
-College of Business\n
-Finance and Business Analytics\n 
+
+College of Business
+
+Finance and Business Analytics
 
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/lamnguyen.jpg" width="50%">
+  <img class="img-circle" src="images/lamnguyen.jpg" width="70%">
 </p>
 
 ---
